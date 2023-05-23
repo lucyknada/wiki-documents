@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[53747],{59753:e=>{e.exports=JSON.parse('{"label":"NFC","permalink":"/tags/nfc","allTagsPath":"/tags","count":1,"items":[{"id":"Top_Brand/Arduino/shield/NFC_Shield_V2.0","title":"NFC Shield V2.0","description":"NFC_Shield_V2.0","permalink":"/NFC_Shield_V2.0"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[59829],{59469:e=>{e.exports=JSON.parse('{"label":"energy","permalink":"/zh-CN/tags/energy","allTagsPath":"/zh-CN/tags","count":1,"items":[{"id":"Top_Brand/Arduino/shield/Energy_Shield","title":"Energy Shield","description":"Energy_Shield","permalink":"/zh-CN/Energy_Shield"}]}')}}]);

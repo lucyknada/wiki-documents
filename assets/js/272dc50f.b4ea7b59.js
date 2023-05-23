@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[22276],{56184:e=>{e.exports=JSON.parse('{"label":"CAN-BUS","permalink":"/tags/can-bus","allTagsPath":"/tags","count":1,"items":[{"id":"Top_Brand/Arduino/shield/CAN-BUS_Shield_V2.0","title":"CAN-BUS Shield V2.0","description":"CAN-BUS_Shield_V2.0","permalink":"/CAN-BUS_Shield_V2.0"}]}')}}]);
